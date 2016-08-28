@@ -1,0 +1,7 @@
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\bin\Debug\MergeXML.exe.config
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\bin\Debug\MergeXML.exe
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\bin\Debug\MergeXML.pdb
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\obj\Debug\MergeXML.csprojResolveAssemblyReference.cache
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\obj\Debug\MergeXML.exe
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\obj\Debug\MergeXML.pdb
+C:\¤¤ My Projects ¤¤\Projects\MergeXML\MergeXML\bin\Debug\XSLT\XSLTIndent.xslt

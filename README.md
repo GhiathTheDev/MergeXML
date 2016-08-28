@@ -13,7 +13,7 @@ MergeXML is a tool that can be used to merge multiple XML tools into one file.
 * `MergeXML.exe -help`
 
 ---
-<span style="color:blue; font-size:12px;">&copy; 2014 [Ghiath Al-Qaisi]</span>
+<span style="color:blue; font-size:12px;">&copy; 2016 [Ghiath Al-Qaisi]</span>
 
 
 [Ghiath Al-Qaisi]: mailto:ghiath.alqaisi@gmail.com "ghiath.alqaisi@gmail.com"
